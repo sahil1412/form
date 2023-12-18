@@ -45,5 +45,3 @@ If some error occurs then “please try again …” message is displayed on the
 
 Point 5.
 Completely working form is hosted. For frontend part Netlify.com is used for hosting and for backend part Render.com is used for hosting.
-
-
