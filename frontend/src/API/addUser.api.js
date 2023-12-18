@@ -1,7 +1,7 @@
 import axios from 'axios';
 
-// let baseUrl = 'https://formbackend-0005.onrender.com';
-let baseUrl = 'http://localhost:4000'
+let baseUrl = 'https://formbackend-0005.onrender.com';
+// let baseUrl = 'http://localhost:4000'
 
 const apiCollections ={
     addUser : async function(data)
