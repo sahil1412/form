@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+**#Tailwind CSS**
+Tailwind CSS is best used to speed up the development process by writing less code. It comes with a design system that helps maintain consistency across various design requirements like padding, spacing, and so forth
+
+
 ## Available Scripts
 
 In the project directory, you can run:
